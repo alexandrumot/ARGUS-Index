@@ -15,7 +15,7 @@
             "url": "https://github.com/alexandrumot/ARGUS-SAMD21G18-Arduino/archive/master.zip",
             "archiveFileName": "ARGUS-1.0.1.zip",
             "checksum": "SHA-256:f4ad6db121838893ec578d3494349bfbe7ea5183182d5681d69af901e3f5c406",
-            "size": "1939414",
+            "size": "1756286",
             "boards": [
               {
                 "name": "Argus Watcher (Native USB Port)"
