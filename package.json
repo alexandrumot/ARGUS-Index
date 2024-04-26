@@ -10,11 +10,11 @@
           {
             "name": "Team HELIOS ARGUS Boards",
             "architecture": "samd",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "category": "Contributed",
-            "url": "https://github.com/alexandrumot/ARGUS-SAMD21G18-Arduino/archive/refs/tags/1.0.0.zip",
-            "archiveFileName": "ARGUS-1.0.0.zip",
-            "checksum": "SHA-256:db133392d5368ddec3d27dc57fca74f17dd59c92679f95a03880078d5d2bf39a",
+            "url": "https://github.com/alexandrumot/ARGUS-SAMD21G18-Arduino/archive/refs/tags/1.0.1.zip",
+            "archiveFileName": "ARGUS-1.0.1.zip",
+            "checksum": "SHA-256:f4ad6db121838893ec578d3494349bfbe7ea5183182d5681d69af901e3f5c406",
             "size": "6440960",
             "boards": [
               {
