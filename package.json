@@ -12,8 +12,8 @@
             "architecture": "samd",
             "version": "1.0.1",
             "category": "Contributed",
-            "url": "https://github.com/alexandrumot/ARGUS-SAMD21G18-Arduino/archive/refs/tags/1.0.1.tar.gz",
-            "archiveFileName": "ARGUS-1.0.1.zip",
+            "url": "https://github.com/alexandrumot/ARGUS-SAMD21G18-Arduino/archive/refs/tags/1.0.1.zip",
+            "archiveFileName": "ARGUS-SAMD21G18-Arduino-1.0.1.zip",
             "checksum": "SHA-256:f4ad6db121838893ec578d3494349bfbe7ea5183182d5681d69af901e3f5c406",
             "size": "1939414",
             "boards": [
