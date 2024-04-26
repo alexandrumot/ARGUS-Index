@@ -2,14 +2,13 @@
     "packages":
     [
       {
-        "name": "robohat",
+        "name": "ARGUS",
         "maintainer": "Alexandru Mot",
         "websiteURL": "https://github.com/alexandrumot/ARGUS-SAMD21G18-Arduino",
-        "email" : "alexandru.i.mot@gmail.com",
         "platforms":
         [
           {
-            "name": "2024 ARGUS Boards",
+            "name": "Team HELIOS ARGUS Boards",
             "architecture": "samd",
             "version": "1.0.0",
             "category": "Contributed",
