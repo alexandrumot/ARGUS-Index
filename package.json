@@ -2,7 +2,7 @@
     "packages":
     [
       {
-        "name": "ARGUS",
+        "name": "argus",
         "maintainer": "Alexandru Mot",
         "websiteURL": "https://github.com/alexandrumot/ARGUS-SAMD21G18-Arduino",
         "platforms":
@@ -14,8 +14,8 @@
             "category": "Contributed",
             "url": "https://github.com/alexandrumot/ARGUS-SAMD21G18-Arduino/archive/refs/tags/1.0.1.zip",
             "archiveFileName": "ARGUS-SAMD21G18-Arduino-1.0.1.zip",
-            "checksum": "SHA-256:f4ad6db121838893ec578d3494349bfbe7ea5183182d5681d69af901e3f5c406",
-            "size": "1939414",
+            "checksum": "SHA-256:a80892adbddff82f97ab49815262b0ab5aef8b5120c4e30f1214aa6b0be70197",
+            "size": "1942332",
             "boards": [
               {
                 "name": "Argus Watcher (Native USB Port)"
