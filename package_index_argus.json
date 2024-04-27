@@ -10,12 +10,12 @@
           {
             "name": "Team HELIOS ARGUS Boards",
             "architecture": "samd",
-            "version": "1.0.1",
+            "version": "1.0.3",
             "category": "Contributed",
-            "url": "https://github.com/alexandrumot/ARGUS-SAMD21G18-Arduino/archive/refs/tags/1.0.2.zip",
-            "archiveFileName": "ARGUS-SAMD21G18-Arduino-1.0.2.zip",
-            "checksum": "SHA-256:D8489AEB6D19EB6B75DE7AD36A9DBC6B743FD7220C38A9E972B5A6DDD04F986B",
-            "size": "2026210",
+            "url": "https://github.com/alexandrumot/ARGUS-SAMD21G18-Arduino/archive/refs/tags/1.0.3.zip",
+            "archiveFileName": "ARGUS-SAMD21G18-Arduino-1.0.3.zip",
+            "checksum": "SHA-256:23CB61B46FCEB89417DA8E31533F5CB7575A66C986B86BF4F60802AC381A543C",
+            "size": "2027803",
             "boards": [
               {
                 "name": "Argus Watcher (Native USB Port)"
